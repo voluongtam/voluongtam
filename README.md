@@ -1,7 +1,9 @@
 ### 🐧 I'm Thành Phương 🐧 
 
-[<img align="left" alt="phuong97s.com" width="100px" src="https://png.pngtree.com/png-vector/20200312/ourlarge/pngtree-data-processing-factory-isometric-technology-icon-png-image_2158176.jpg" />][website]
-[<img align="left" alt="phuong97s.com" width="100px" src="https://toppng.com/uploads/preview/this-enables-data-to-be-summarized-at-the-edge-and-data-processing-icon-11553461219jglh7tmloq.png" />][website]
+[<img align="left" alt="phuong97s.com" width="250px" src="https://png.pngtree.com/png-vector/20200312/ourlarge/pngtree-data-processing-factory-isometric-technology-icon-png-image_2158176.jpg" />][website]
+[<img align="left" alt="phuong97s.com" width="250px" src="https://toppng.com/uploads/preview/this-enables-data-to-be-summarized-at-the-edge-and-data-processing-icon-11553461219jglh7tmloq.png" />][website]
+
+---
 
 ## I'm a Data Analyst, Data Engineer and Data Science!!!
 
