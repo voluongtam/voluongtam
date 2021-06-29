@@ -12,7 +12,7 @@
 - 🥅 2021 Goals: Contribute more - get 
 - ⚡ Fun fact: I love reading book
 
-### Spotify Playing 🎧
+### Spotify Playing   🎧
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
@@ -46,7 +46,7 @@
 ---
 
 [website]: https://phuong97s.com
-[course]: http://facebook.com
+[course]: http://linkedin.com/in/phuong97s
 [twitter]: https://twitter.com/phuong97s
 [youtube]: https://youtube.com/phuong97s
 [instagram]: https://instagram.com/phuong97s
