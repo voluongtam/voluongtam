@@ -30,7 +30,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][cssplaylist]
-[<img align="left" alt="Spark" width="50px" src="https://w7.pngwing.com/pngs/851/797/png-transparent-apache-spark-apache-hadoop-big-data-scala-apache-http-server-spark-miscellaneous-text-orange.png" />][jsplaylist]
+[<img align="left" alt="Spark" width="52px" src="https://w7.pngwing.com/pngs/851/797/png-transparent-apache-spark-apache-hadoop-big-data-scala-apache-http-server-spark-miscellaneous-text-orange.png" />][jsplaylist]
 [<img align="left" alt="Airflow" width="26px" src="https://iconape.com/wp-content/files/dd/370523/svg/airflow-logo-icon-png-svg.png" />][reactplaylist]
 [<img align="left" alt="Postgresql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
