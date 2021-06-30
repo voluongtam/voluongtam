@@ -9,7 +9,7 @@
 - 🔭 I have two years experiences at Data and follow to : [Become a Data Science!][course]!
 - 🌱 I’m currently learning more every day!
 - 👯 I’m looking to collaborate with other projects
-- 🥅 2021 Goals: Contribute more - get 
+- 🥅 2021 Goals: Contribute more
 - ⚡ Fun fact: I love reading book
 
 ### Spotify Playing   🎧
